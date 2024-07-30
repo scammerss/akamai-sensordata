@@ -1,7 +1,6 @@
 # [akamai-sensordata](https://reverse-god.github.io/BMP-Api/)
 
-# [TEST THE AKAMAI HEADERS API GENERATOR](https://reverse-god.github.io/BMP-Api/
-) - https://reverse-god.github.io/BMP-Api/
+# [TEST THE AKAMAI HEADERS API GENERATOR](https://reverse-god.github.io/BMP-Api/) - https://reverse-god.github.io/BMP-Api/
 
 ![image](https://i.imgur.com/bPQti0i.png)
 
